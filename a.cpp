@@ -1,5 +1,6 @@
 #include <cstdio>
-int main() {
+
+int main(int argc, char* const argv[]) {
 	printf("for test test newa\n");
 	printf("liangliang hhh\n");
 	return 0;

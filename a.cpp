@@ -1,6 +1,6 @@
 #include <cstdio>
 int main() {
-	printf("for test test newd\n");
+	printf("for test test newa\n");
 	printf("liangliang hhh\n");
 	return 0;
 	//branch1 add
@@ -11,7 +11,7 @@ int main() {
 	//qqq
 	//kkk
 	//hhhhh
-	//newd
+	//newad
 }
 
 /*111*/
